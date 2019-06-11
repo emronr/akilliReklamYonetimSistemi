@@ -1,0 +1,13 @@
+C:\Users\emre9\source\repos\Reklam1\Reklam1\bin\Debug\Reklam1.exe.config
+C:\Users\emre9\source\repos\Reklam1\Reklam1\bin\Debug\Reklam1.exe
+C:\Users\emre9\source\repos\Reklam1\Reklam1\bin\Debug\Reklam1.pdb
+C:\Users\emre9\source\repos\Reklam1\Reklam1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emre9\source\repos\Reklam1\Reklam1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emre9\source\repos\Reklam1\Reklam1\obj\Debug\Reklam1.csprojAssemblyReference.cache
+C:\Users\emre9\source\repos\Reklam1\Reklam1\obj\Debug\Reklam1.Properties.Resources.resources
+C:\Users\emre9\source\repos\Reklam1\Reklam1\obj\Debug\Reklam1.csproj.GenerateResource.cache
+C:\Users\emre9\source\repos\Reklam1\Reklam1\obj\Debug\Reklam1.csproj.CoreCompileInputs.cache
+C:\Users\emre9\source\repos\Reklam1\Reklam1\obj\Debug\Reklam1.csproj.CopyComplete
+C:\Users\emre9\source\repos\Reklam1\Reklam1\obj\Debug\Reklam1.exe
+C:\Users\emre9\source\repos\Reklam1\Reklam1\obj\Debug\Reklam1.pdb
+C:\Users\emre9\source\repos\Reklam1\Reklam1\obj\Debug\Reklam1.Form1.resources
