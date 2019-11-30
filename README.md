@@ -1,2 +1,2 @@
 # akilliEkranYonetimSistemi
-AKILLI EKRAN YÖNETİM SİSTEMİ
+AKILLI REKLAM YÖNETİM SİSTEMİ
